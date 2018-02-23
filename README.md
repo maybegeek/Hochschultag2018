@@ -1,6 +1,6 @@
 ---
 title: 'Hochschultag 2018'
-author: 'Pfeiffer'
+author: 'Christoph Pfeiffer'
 subtitle: ''
 date: '23. Februar 2018'
 ---
