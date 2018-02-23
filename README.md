@@ -73,3 +73,5 @@ Die Ausbildung ist modular aufgebaut und kann studienbegleitend absolviert werde
 ## Viel Erfolg
 
 bei ihrem Studium in Regensburg!
+
+<!-- https://cdn.rawgit.com/maybegeek/Hochschultag2018/d627eedb/README.md -->
